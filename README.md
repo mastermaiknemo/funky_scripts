@@ -6,6 +6,8 @@ This repo will collect interesting scripts I create on my way through internet t
 
 #### google_search_to_wordcloud
 
+This script will generate a wordcloud out of all your google searches you've ever done on your machine. 
+
 Navigate to you Chrome/Chromium installation -> 
 `cd /home/YOURUSERNAME/.config/chromium/Default`
 (linux)
