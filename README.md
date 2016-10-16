@@ -1,8 +1,4 @@
-# funky_scripts
-
-
-
-This repo will collect interesting scripts I create on my way through internet technologies
+# Generate wordcloud out of all your Google Searches
 
 #### google_search_to_wordcloud
 
@@ -20,9 +16,5 @@ Install kumo:
 
 `brew install https://raw.githubusercontent.com/kennycason/kumo/master/script/kumo.rb`
 
-Change the USERNAME to yours. Change the wordcount parameter or remove it, if you want to have all words in the cloud.
-Big thanks to my friend @kennycason writing this nice Java Wordcloud generator.
-
 The database is locked if your browser is running. Close it before you start the script.
-
-More scripts will follow. . ;)
+Run the script for a little bit of introspection.
